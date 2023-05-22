@@ -1,7 +1,7 @@
 ### Hello, Nice to Meet You ✌️
 Welcome To My Page! <br>
 
-I'm Nabila, Software Engineer From indonesia😁,
+I'm Nabila, Software Engineer.
 
 <h3>Where to find me</h3>
 <p>
